@@ -1,0 +1,11 @@
+C:\Users\Тема\Desktop\the_game\2048 c#\bin\Release\2048 c#.exe.config
+C:\Users\Тема\Desktop\the_game\2048 c#\bin\Release\2048 c#.exe
+C:\Users\Тема\Desktop\the_game\2048 c#\bin\Release\2048 c#.pdb
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\2048 c#.csproj.AssemblyReference.cache
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\2048 c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\_2048_c_.Properties.Resources.resources
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\2048 c#.csproj.GenerateResource.cache
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\2048 c#.csproj.CoreCompileInputs.cache
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\2048 c#.exe
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\2048 c#.pdb
+C:\Users\Тема\Desktop\the_game\2048 c#\obj\Release\_2048_c_.game.resources
